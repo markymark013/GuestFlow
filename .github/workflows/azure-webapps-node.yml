@@ -1,0 +1,4 @@
+npm init -y
+npm install express
+mkdir src
+touch src/server.js
